@@ -1,2 +1,12 @@
-# automated-review-rating-system
-This project aims to build an AI-powered system that can automatically analyze customer reviews and generate corresponding ratings. Instead of relying solely on manual ratings, this system uses natural language processing (NLP) and machine learning to understand the sentiment and content of reviews and predict a rating
+# Automated Review Rating System
+
+This project is about building a system that reads customer reviews and automatically gives them a rating using machine learning and natural language processing.
+
+## Project Structure
+
+- `data/` – for storing datasets
+- `notebooks/` – for Jupyter notebooks and experiments
+- `models/` – for saving trained ML models
+- `app/` – for backend code
+- `frontend/` – for the frontend interface
+- `requirements.txt` – contains the Python packages used
