@@ -10,3 +10,6 @@ This project is about building a system that reads customer reviews and automati
 - `app/` – for backend code
 - `frontend/` – for the frontend interface
 - `requirements.txt` – contains the Python packages used
+
+## DAY3 TASK DONE
+preproccesed and cleaned the dataset and uploaded it in the data folder named as cleaned data set and the raw data set is uploaded as a zip file because of the large size
